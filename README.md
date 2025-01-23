@@ -1,6 +1,6 @@
 # Capsule-Hunting
-3D FPS survival game created using C#, Unity, and Blender
-Custom map, obstacles, and gun models using Blender
+3D FPS survival game created using C#, Unity, and Blender <br>
+Custom map, obstacles, and gun models using Blender <br>
 3D vector raycasting for the guns coded with C# to detect hits on enemies
 
 &rarr; To view code, navigate to "Assets" folder, then open "Scripts" folder
